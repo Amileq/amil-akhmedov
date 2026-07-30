@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# База данных SQLite
+*.db
+*.sqlite3
+
+# Настройки и ключи
+.env
